@@ -1,0 +1,9 @@
+.view {
+    background: url("./background.jpg")no-repeat center center;
+    background-size: cover;
+}
+@media (min-width: 768px) {
+    .view {
+        overflow: visible;
+    }
+}
